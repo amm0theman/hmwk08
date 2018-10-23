@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmwk08", "hmwk08\hmwk08.csproj", "{4B0D83E9-A136-4406-B0FE-C284C61B7806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNamesvmtests", "FileNamesvmtests\FileNamesvmtests.csproj", "{78E4F508-6801-45F8-81F3-296C073F36FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0D83E9-A136-4406-B0FE-C284C61B7806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0D83E9-A136-4406-B0FE-C284C61B7806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0D83E9-A136-4406-B0FE-C284C61B7806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0D83E9-A136-4406-B0FE-C284C61B7806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E4F508-6801-45F8-81F3-296C073F36FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E4F508-6801-45F8-81F3-296C073F36FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E4F508-6801-45F8-81F3-296C073F36FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E4F508-6801-45F8-81F3-296C073F36FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D07A9F5-7C19-4392-AB40-9C421E4B001E}
+	EndGlobalSection
+EndGlobal
